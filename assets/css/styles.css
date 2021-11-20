@@ -438,6 +438,11 @@ img{
   margin-bottom: var(--mb-2);
 }
 
+.footer__li{
+  margin-bottom: var(--mb-1);
+  color: var(--text-color);
+}
+
 .footer__link{
   display: inline-block;
   color: var(--text-color);
